@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+
+th {  
+    background: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+td {  
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+    
